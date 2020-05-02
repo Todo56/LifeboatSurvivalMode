@@ -34,3 +34,5 @@ items:
   - "265:0:2"
 ```
     
+## Troubleshooting:
+If the plugin is not working make sure that you are within the radius that you have chosen x and z wise and make sure that those chunks are loaded. 
