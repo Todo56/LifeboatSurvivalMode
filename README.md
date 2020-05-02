@@ -14,5 +14,23 @@ worlds:
     min_z: 0
     max_x: 500
     min_x: 0
+  - name: secondworld
+    max_z: 1000
+    min_z: -100
+    max_x: 500
+    min_x: -100
+```
+After that, you can also edit the items.yml file to fit your requirements.
+Example items.yml file:
+```yml
+items:
+  - "4:0:32" # formay: itemid:itemdata:quantity     nice website for ids: https://minecraft-ids.grahamedgecombe.com/
+  - "1:0:64"
+  - "264:0:1"
+  - "280:0:3"
+  - "320:0:5"
+  - "366:0:4"
+  - "351:4:4"
+  - "265:0:2"
 ```
     
