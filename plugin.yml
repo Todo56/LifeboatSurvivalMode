@@ -1,0 +1,6 @@
+name: LifeboatSurvivalMode
+main: todoe56\LifeboatSurvivalMode\LifeboatSurvivalMode
+version: 1.0.0
+api: 3.0.0
+author: Todoe56
+description: Plugin to spawn chests just like Lifeboat's Survival Mode.
