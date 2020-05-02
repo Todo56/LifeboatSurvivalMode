@@ -72,9 +72,8 @@ class SpawnTask extends Task
                 $y = $level->getHighestBlockAt($x + 1, $z + 1);
                 if($y === -1){
                     return null;
-                } else {
-                    return [$x, $y, $z];
                 }
+                return [$x, $y, $z];
             }
         }
         return null;
