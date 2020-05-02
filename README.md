@@ -1,7 +1,7 @@
 # LifeboatSurvivalMode
 This is a pmmp plugin that generates random chests with the loot you choose around a world. Just like Lifeboat's sm.
 
-## How to use it?
+## How to use it
 Using it is fairly simple, download the lastest release and then move it to your plugins folder. Then start your server and stop it again. Open the config.yml file that should've appeared in plugin_data/LifeboatSurvivalMode and then edit it according to what you want. 
 Example configuration:
 ```yml
@@ -34,5 +34,5 @@ items:
   - "265:0:2"
 ```
     
-## Troubleshooting:
+## Troubleshooting
 If the plugin is not working make sure that you are within the radius that you have chosen x and z wise and make sure that those chunks are loaded. 
