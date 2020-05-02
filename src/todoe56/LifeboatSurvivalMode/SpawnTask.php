@@ -33,7 +33,6 @@ class SpawnTask extends Task
                 $x = $array[0];
                 $y = $array[1];
                 $z = $array[2];
-                $name = $block->getName();
                 $id = $block->getItemId();
                 if($id !== 9 && $id !== 0) {
                     $block = Block::get(54);
